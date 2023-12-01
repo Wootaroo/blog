@@ -11,7 +11,7 @@
     <modules>
         <module>blog-framework</module>
         <module>blog-admin</module>
-        <module>blog-vue</module>
+        <module>Wblog</module>
     </modules>
 
     <properties>
